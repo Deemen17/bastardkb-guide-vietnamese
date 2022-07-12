@@ -1,4 +1,4 @@
-# Cách flash firmware (mới) cho controller STeMCell
+# 1. Cách flash firmware (mới) cho controller STeMCell
 ## Bước 1: Cắm cáp usb và bấm 2 lần nút `UPDATE` ở pcb holder/adapter ở dưới bottom case. 
 - Sau khoảng 2s sẽ hiện ra USB Drive STeMCell như ảnh:
 ![image](https://user-images.githubusercontent.com/95753855/177046044-9e225d21-bf4f-4f1e-8506-649992996963.png)
@@ -7,7 +7,7 @@
 
 ## Bước 3: Lặp lại tương tự với bên còn lại nếu dùng Split, test phím và enjoy!
 
-# Cách setup app Vial (tương tự app Via)
+# 2. Cách setup app Vial (tương tự app Via)
 
 ## Tải và cài đặt app Vial [ở đây](https://get.vial.today/download/) 
 Có thể tải bản portable (chạy trong 1 folder) cho tiện.
