@@ -12,14 +12,6 @@
 ## Tải và cài đặt app Vial [ở đây](https://get.vial.today/download/) 
 Có thể tải bản portable (chạy trong 1 folder) cho tiện.
 
-## Cắm cáp usb và mở app Vial
-![image](https://user-images.githubusercontent.com/95753855/177046865-d175d9e0-9bb2-4955-9a0b-24a160957f76.png)
-
-## Bấm mở thẻ `File` gốc trái màn hình, chọn `Sideload VIA JSON`
-![image](https://user-images.githubusercontent.com/95753855/177046891-d1cf46e3-fccc-4689-9f3d-fdc5963ffad9.png)
-
-## Chọn file `.json` tương ứng với tên phím và bấm `Open`
-
 ## Cách tải file json: 
 - Click vào link `ở đây` ở dưới, trỏ con chuột vào ô `Raw`(bên phải màn hình), click chuột phải và chọn `Save link as`.
 ![image](https://user-images.githubusercontent.com/95753855/180714132-9cd92a0e-f2e6-4690-842f-2bfd747637b3.png)
@@ -27,6 +19,13 @@ Có thể tải bản portable (chạy trong 1 folder) cho tiện.
 ### File json cho Scylla [ở đây](https://github.com/Deemen17/bastardkb-guide-vietnamese/blob/main/firmware/scylla/scylla_vial.json)
 ### File json cho Skeletyl [ở đây](https://github.com/Deemen17/bastardkb-guide-vietnamese/blob/main/firmware/skeletyl/skeletyl_vial.json)
 
+## Cắm cáp usb và mở app Vial
+![image](https://user-images.githubusercontent.com/95753855/177046865-d175d9e0-9bb2-4955-9a0b-24a160957f76.png)
+
+## Bấm mở thẻ `File` gốc trái màn hình, chọn `Sideload VIA JSON`
+![image](https://user-images.githubusercontent.com/95753855/177046891-d1cf46e3-fccc-4689-9f3d-fdc5963ffad9.png)
+
+## Chọn file `.json` tương ứng với tên phím và bấm `Open`
 ![image](https://user-images.githubusercontent.com/95753855/177046976-53c57afe-ffdc-481f-ada7-79ff7884b85a.png)
 
 ## Kết quả
